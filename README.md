@@ -1,6 +1,7 @@
-# my_app
+![A Product List & Detail Page](https://raw.githubusercontent.com/NeeteshKeshari/flutter_Ecom_UI/master/Ecom_PLP.png)
+![A Product Detail Page](https://raw.githubusercontent.com/NeeteshKeshari/flutter_Ecom_UI/master/Ecom_PDP.png)
 
-A new Flutter project.
+# A Product List & Detail Page UI in flutter
 
 ## Getting Started
 
@@ -13,4 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+ls,
 samples, guidance on mobile development, and a full API reference.
